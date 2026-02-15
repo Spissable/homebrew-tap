@@ -1,8 +1,8 @@
 class Shlf < Formula
   desc "Tiny macOS menu bar app that keeps your folder close"
   homepage "https://github.com/spissable/shlf"
-  url "https://github.com/spissable/shlf/archive/refs/tags/v1.2.1.tar.gz"
-  sha256 "8626e2b9cfa08ab8405cd45fad8626c9127d64b1ecc05db4f9e34eb9cdd8c0c3"
+  url "https://github.com/spissable/shlf/archive/refs/tags/v1.2.2.tar.gz"
+  sha256 "88b6018540368c3276f108268ae786d9ed441ab91752ac468af3cdb55e3615ec"
   license "MIT"
 
   depends_on xcode: ["15.0", :build]
