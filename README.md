@@ -1,10 +1,9 @@
 # Homebrew Tap
 
-Custom Homebrew formulae.
+Custom Homebrew casks.
 
 ## Install
 
 ```bash
-brew tap spissable/tap
-brew install shlf
+brew install --cask spissable/tap/shlf
 ```
