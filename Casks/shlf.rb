@@ -1,8 +1,8 @@
 cask "shlf" do
-  version "1.2.2"
-  sha256 "88b6018540368c3276f108268ae786d9ed441ab91752ac468af3cdb55e3615ec"
+  version "1.4.0"
+  sha256 "00b47ff254659778b73092f2e2af02e41647356250b8e941a3cdc736be0fe799"
 
-  url "https://github.com/spissable/shlf/releases/download/v#{version}/Shlf.app.zip"
+  url "https://github.com/spissable/shlf/releases/download/v1.4.0/Shlf.app.zip"
   name "Shlf"
   desc "Tiny macOS menu bar app that keeps your folder close"
   homepage "https://github.com/spissable/shlf"
