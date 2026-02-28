@@ -1,8 +1,8 @@
 cask "mike" do
-  version "1.0.0"
-  sha256 "b8ef0feb01a0e5e81bc788af04c7bd462e21666fbc437494ee60de1fff625b44"
+  version "1.0.1"
+  sha256 "fa165d844b1c84ed2068370807e6db598f0a197208c9a0a3c44fd6b2816f93fb"
 
-  url "https://github.com/spissable/mike/releases/download/v1.0.0/Mike.app.zip"
+  url "https://github.com/spissable/mike/releases/download/v1.0.1/Mike.app.zip"
   name "Mike"
   desc "macOS menu bar app that enforces your preferred microphone"
   homepage "https://github.com/spissable/mike"
