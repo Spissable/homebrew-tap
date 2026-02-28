@@ -10,4 +10,9 @@ cask "mike" do
   depends_on macos: ">= :sonoma"
 
   app "Mike.app"
+
+  postflight do
+    system_command "/usr/bin/xattr",
+                   args: ["-cr", "#{appdir}/Mike.app"]
+  end
 end
